@@ -1,5 +1,7 @@
 # ✨ Tic-Tac-Toe Deluxe Edition
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bharadwajyadavalli1999-wq/Game-_project)
+
 A modern, responsive, and visually stunning Tic-Tac-Toe web game featuring **Beginner & Advanced AI models**, **7 beautiful animated background color palettes**, procedural sound effects, interactive hints, undo functionality, and customizable symbol packs.
 
 ---
